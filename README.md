@@ -6,7 +6,7 @@ HelmetApp is a mobile application developed with **React Native** and **Expo**, 
 - 📡 **Real-time monitoring** of connected devices.
 - 🔋 **View metrics** such as battery, signal and alerts.
 - 🧷 **ESP32 support**, integrating sensors such as the MPU6050.
-- 🏷 **Use of NFC PN532 ** to store and manage vital user information.
+- 🏷 **Use of NFC PN532** to store and manage vital user information.
 
 ## 🛠 Technologies Used
 - ⚛ **React Native** with Expo.
